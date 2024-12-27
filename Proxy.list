@@ -63,6 +63,11 @@ DOMAIN-SUFFIX,meijutt.cc
 DOMAIN-SUFFIX,ggff.net
 DOMAIN-SUFFIX,lckg.soscom.ggff.net
 DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,definitely.nelreports.net
+DOMAIN-SUFFIX,c.msn.cn
+DOMAIN-SUFFIX,go.microsoft.com
+DOMAIN-SUFFIX,api.ipify.org
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
