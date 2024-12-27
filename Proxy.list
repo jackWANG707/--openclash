@@ -67,6 +67,8 @@ DOMAIN-SUFFIX,definitely.nelreports.net
 DOMAIN-SUFFIX,c.msn.cn
 DOMAIN-SUFFIX,go.microsoft.com
 DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,deff.nelreports.net
+DOMAIN-SUFFIX,api.ipify.org
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
