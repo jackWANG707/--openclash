@@ -60,8 +60,9 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,piliapp.com
 DOMAIN-SUFFIX,meijutt.cc
-DOMAIN-SUFFIX,msv.sosorg.ggff.net
+DOMAIN-SUFFIX,ggff.net
 DOMAIN-SUFFIX,lckg.soscom.ggff.net
+DOMAIN-SUFFIX,msn.cn
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
