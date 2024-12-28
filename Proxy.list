@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,dnscheck.tools
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
@@ -61,6 +60,7 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,piliapp.com
 DOMAIN-SUFFIX,meijutt.cc
+DOMAIN-SUFFIX,dnscheck.tools
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
