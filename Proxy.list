@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,null-addr.info
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,cnys.tv
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
